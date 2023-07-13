@@ -1,0 +1,5 @@
+streamlit
+numpy
+tensorflow
+Pillow
+protobuf==3.20
